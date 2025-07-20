@@ -10,7 +10,7 @@
 #### <h1><strong> My Stack </strong></h1>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" width="100px"> |
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="100px"> |
-<img src="[https://www.google.com/imgres?q=qlik%20sense%20logo&imgurl=https%3A%2F%2Fcdn.imgbin.com%2F19%2F20%2F2%2Fimgbin-qlik-business-intelligence-software-dashboard-logo-others-round-green-and-white-logo-GbfxSWxp2Ebv4NNUCGbeEGN18.jpg&imgrefurl=https%3A%2F%2Fimgbin.com%2Fpng%2Fkftib7Pa%2Fqlik-business-intelligence-software-dashboard-logo-png&docid=Nh7IGdoV0Wz0fM&tbnid=973exYKKWl7wrM&vet=12ahUKEwiYyu24k8qOAxUWrZUCHQr3NyEQM3oECAwQAA..i&w=728&h=667&hcb=2&itg=1&ved=2ahUKEwiYyu24k8qOAxUWrZUCHQr3NyEQM3oECAwQAA](https://github.com/XXXParanoidXXX/README/blob/main/PowerBI.png)"> |
+<img src="PowerBI.png"> |
 <h1></h1>
 
 #### :newspaper_roll: Certifications:
