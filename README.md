@@ -10,7 +10,7 @@
 #### <h1><strong> My Stack </strong></h1>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" width="100px"> |
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="100px"> |
-
+<h1></h1>
 ####
 
 #### :newspaper_roll: Certifications:
