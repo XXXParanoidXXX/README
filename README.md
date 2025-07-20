@@ -7,10 +7,11 @@
 #### :books: I’m currently learning everything about Data Engineering, Data Science, Data Analysis and Agile. I master SQL, Python, Power BI, Qlik Sense and Scrum.
 #### :outbox_tray: 2025 Goals: create new projects and improve my skills.
 
-#### <h1><strong> My Stack </strong></h1>:
+#### <h1><strong> My Stack </strong></h1>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" width="100px"> |
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="100px"> |
-          
+
+####
 
 #### :newspaper_roll: Certifications:
 #### soon
